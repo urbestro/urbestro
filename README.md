@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Urbestro.
 - 👀 I’m interested in Cities and Data Analysis.
-- 🌱 I’m currently learning Python and C++.
+- 🌱 I’m currently learning Python and JavaScript.
 - 💞️ I’m looking to collaborate on Python projects.
 
 <!---
