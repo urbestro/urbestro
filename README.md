@@ -1,4 +1,4 @@
-Interested in cities and data analysis. Currently learning Python.
+Interested in cities and data analysis. Currently learning Python and MySQL.
 
 <!---
 urbestro/urbestro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
